@@ -1,0 +1,6 @@
+---
+applications:
+- name: ChannuWebProject
+  memory: 1024M
+  host: channuwebproject
+  domain: cfapps.io
